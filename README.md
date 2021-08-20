@@ -12,3 +12,4 @@ Resources for Interview Preparation for ML Engineer
    5. Python OOP 5 - Special (Magic/Dunder) Methods - https://youtu.be/3ohzBxoFHAY
    6. Python OOP 6 - Property Decorators - https://youtu.be/jCzT9XFZ5bw
 5. https://machinelearningmastery.com/books-on-data-cleaning-data-preparation-and-feature-engineering/ - books for data cleaning, wrangling and feature engineering
+6. https://towardsdatascience.com/how-to-package-your-python-code-df5a7739ab2e - packaging python code
